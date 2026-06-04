@@ -12,7 +12,6 @@ public class Q7 {
         int number = scanner.nextInt();
         int product = 1;
 
-        // Handle the case if the user enters 0
         if (number == 0) {
             product = 0;
         }
